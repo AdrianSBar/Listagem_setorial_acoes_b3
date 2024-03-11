@@ -1,0 +1,74 @@
+archspec @ file:///croot/archspec_1709217642129/work
+asttokens==2.4.1
+attrs==23.2.0
+boltons @ file:///C:/ci_311/boltons_1677729932371/work
+Brotli @ file:///C:/ci_311/brotli-split_1676435766766/work
+certifi @ file:///C:/b/abs_35d7n66oz9/croot/certifi_1707229248467/work/certifi
+cffi @ file:///C:/b/abs_924gv1kxzj/croot/cffi_1700254355075/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+colorama @ file:///C:/ci_311/colorama_1676422310965/work
+comm==0.2.1
+conda @ file:///C:/b/abs_89vd8hj61u/croot/conda_1708369170790/work
+conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1706733287605/work/src
+conda-package-handling @ file:///C:/b/abs_b9wp3lr1gn/croot/conda-package-handling_1691008700066/work
+conda_package_streaming @ file:///C:/b/abs_6c28n38aaj/croot/conda-package-streaming_1690988019210/work
+cramjam==2.8.2
+debugpy==1.8.1
+decorator==5.1.1
+distro @ file:///C:/b/abs_a3uni_yez3/croot/distro_1701455052240/work
+et-xmlfile==1.1.0
+executing==2.0.1
+fastjsonschema==2.19.1
+fastparquet==2024.2.0
+fsspec==2024.2.0
+idna @ file:///C:/ci_311/idna_1676424932545/work
+ipykernel==6.29.3
+ipython==8.22.2
+jedi==0.19.1
+jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
+jsonpointer==2.1
+jsonschema==4.21.1
+jsonschema-specifications==2023.12.1
+jupyter_client==8.6.0
+jupyter_core==5.7.1
+libmambapy @ file:///C:/b/abs_2euls_1a38/croot/mamba-split_1704219444888/work/libmambapy
+matplotlib-inline==0.1.6
+menuinst @ file:///C:/b/abs_099kybla52/croot/menuinst_1706732987063/work
+nbformat==5.9.2
+nest-asyncio==1.6.0
+numpy==1.26.4
+openpyxl==3.1.2
+packaging @ file:///C:/b/abs_28t5mcoltc/croot/packaging_1693575224052/work
+pandas==2.2.1
+parso==0.8.3
+platformdirs @ file:///C:/b/abs_b6z_yqw_ii/croot/platformdirs_1692205479426/work
+plotly==5.19.0
+pluggy @ file:///C:/ci_311/pluggy_1676422178143/work
+prompt-toolkit==3.0.43
+psutil==5.9.8
+pure-eval==0.2.2
+pyarrow==15.0.1
+pycosat @ file:///C:/b/abs_31zywn1be3/croot/pycosat_1696537126223/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments==2.17.2
+PySocks @ file:///C:/ci_311/pysocks_1676425991111/work
+python-dateutil==2.9.0.post0
+pytz==2024.1
+pywin32==306
+pyzmq==25.1.2
+referencing==0.33.0
+requests @ file:///C:/b/abs_474vaa3x9e/croot/requests_1707355619957/work
+rpds-py==0.18.0
+ruamel.yaml @ file:///C:/ci_311/ruamel.yaml_1676439214109/work
+six==1.16.0
+stack-data==0.6.3
+tenacity==8.2.3
+tornado==6.4
+tqdm @ file:///C:/b/abs_f76j9hg7pv/croot/tqdm_1679561871187/work
+traitlets==5.14.1
+truststore @ file:///C:/b/abs_55z7b3r045/croot/truststore_1695245455435/work
+tzdata==2024.1
+urllib3 @ file:///C:/b/abs_4etpfrkumr/croot/urllib3_1707770616184/work
+wcwidth==0.2.13
+win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
+zstandard==0.19.0
